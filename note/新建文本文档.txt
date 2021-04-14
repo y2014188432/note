@@ -1,0 +1,14 @@
+单词		音标		意思
+core 		[kɔː(r)]  		核心
+container		[kənˈteɪnə(r)]	容器
+bean		[biːn]		豆
+factory		[ˈfæktri]		工厂
+context		[ˈkɒntekst]	上下文
+data		[ˈdeɪtə]		数据
+access		[ˈækses]		通道访问
+integration	[ˌɪntɪˈɡreɪʃn]	集成
+transaction	[trænˈzækʃənz]	事务
+sockt		[ˈsɒkɪt]		孔
+aspect		[ˈæspekt]		层面
+instrumentation	[ˌɪnstrəmenˈteɪʃn]	仪器仪表
+messaging	[ˈmesɪdʒɪŋ]	消息传递
