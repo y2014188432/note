@@ -60,5 +60,17 @@
 
 ### 修改文件
 
-- 顶点
+- 查看当前仓库状态
+
+    ```bash
+    $ git status
+    ```
+
+- 查看文件修改状态
+
+    ```bash
+    $ git diff fileName
+    ```
+
+- 
 
