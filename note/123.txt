@@ -1,0 +1,15 @@
+charAt(int index) 通过下标得到字符串中相应位置的字符	
+endsWith(String str) 判断该字符串是否以str为后缀
+startsWith(String str) 判断前缀
+ starts With(String str,int index) 从指定位置开始判断前缀
+ equals(object anObject) 比较字符串是否与指定对象相等 
+ indexOf(int ch)返回指定字符在此字符串中第一次出现的下标
+ length() 返回字符串长度
+ replace(char oldchar,char newchar) 把字符串中的oldchar全部替换为newchar 
+substring(int beginIndex) ：取从beginIndex位置开始到结束的子字符串
+ substring(int beginIndex, int endIndex) ：取从beginIndex位置开始到endIndex位置的子字符串 
+ toCharArray()将字符串转化为一个字符数组 
+toLowerCase()将字符串中的字符都转化为小写
+toUpperCase()将字符串中的字符都转化为大写 
+ toString()返回字符串
+ trim() 忽略字符串前和字符串后的空格

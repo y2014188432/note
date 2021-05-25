@@ -72,5 +72,31 @@
     $ git diff fileName
     ```
 
+- 将已修改的文件添加到仓库
+
+    ```bash
+    $ git add fileName
+    ```
+
+- 将已修改的文件提交到仓库
+
+    ```bash
+    $ git commit -m "Message"
+    ```
+
+### 版本回退
+
+- 展示版本
+
+    ```bash
+    $ git log
+    ```
+
+- 只显示提交 ID
+
+    ```bash
+    $ git log --pretty=oneline
+    ```
+
 - 
 
