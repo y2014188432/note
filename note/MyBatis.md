@@ -1,4 +1,4 @@
-##  My Batis 概述
+##  MyBatis 概述
 
 - MyBatis 是 apache 的一个开源项目 iBatis ，2010 年这个项目由 apache software foundation 迁移到 google code ，并改名为 MyBatis，2013 年 11 月迁移到 Github。
 
@@ -821,3 +821,5 @@ MyBatis Generator ，简称 MBG，是一个专门为 MyBatis 框架开发者定�
     
 
 ## MyBatis 动态 SQL 
+
+### 分段
